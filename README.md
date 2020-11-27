@@ -1,1 +1,1 @@
-# Optimization-function-of-genetic-algorithm
+＃遗传算法的优化功能
